@@ -1,10 +1,5 @@
-# Wikipedia Game
+# Wikipedia Dataset Visualization
 ### (1) The location of all major code, data, and results. 
-- Logistics Folder:
-    * Team Contract
-    * Team Proposal
-    * Development Log
-
 - Data Folder:
     * Fake data files for test cases (vertices and edges)
     * Shortened data files (vertices and edges)
